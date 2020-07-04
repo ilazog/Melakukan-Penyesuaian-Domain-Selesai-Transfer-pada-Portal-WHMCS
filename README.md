@@ -8,14 +8,14 @@ Hal ini dilakukan jika layanan domain telah berhasil ditransfer ke Registrar dar
 
 2. Pastikan status **WHOIS** tidak **Pending Transfer**
 
-*$ whois paradigma.id*
-*Domain ID: PANDI-DO1516026*
-*Domain Name:paradigma.id*
-*Created On:2019-07-19 02:32:26*
-*Last Updated On:2020-06-28 05:38:10*
-*Expiration Date:2021-07-19 23:59:59*
-*Status:serverTransferProhibited*
-*Status:clientTransferProhibited*
+*$ whois paradigma.id*<br>
+*Domain ID: PANDI-DO1516026*<br>
+*Domain Name:paradigma.id*<br>
+*Created On:2019-07-19 02:32:26*<br>
+*Last Updated On:2020-06-28 05:38:10*<br>
+*Expiration Date:2021-07-19 23:59:59*<br>
+*Status:serverTransferProhibited*<br>
+*Status:clientTransferProhibited*<br>
 
 3. Login WHMCS CloudKilat
 
